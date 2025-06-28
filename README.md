@@ -5,7 +5,6 @@
 # Structure
 When_cows_fly
 ├── main.py
-├── taolao.py
 ├── assets/
 ├── screens/
 │   ├── game_over_screen.py
