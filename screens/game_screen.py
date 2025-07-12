@@ -71,7 +71,6 @@ class Obstacle(Widget):
                 )
 
             self.sparks.append((spark, offset_x, 0))
-
             self.bind(pos=self.update_graphics)
 
         elif self.obstacle_type == 'hole':
