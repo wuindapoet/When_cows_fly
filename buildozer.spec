@@ -69,9 +69,7 @@ orientation = landscape
 
 #
 # OSX Specific
-#
 
-#
 # author = © Copyright Info
 
 # Kivy version to use
