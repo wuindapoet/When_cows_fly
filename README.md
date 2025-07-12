@@ -25,7 +25,11 @@ WhenCowsFly/
 │   ├── settings_screen.py # Game settings
 │   └── ...
 ├── assets/              # Graphics and sounds
-└── managers/            # Data and sound management
+│   └── ...
+└── utils/               # Data and sound management
+│   ├── data_manager.py
+│   └── sound_manager.py
+└── bin/                 # file .apk locates here after using buildozer
 ```
 
 ## 🎯 Game Mechanics
